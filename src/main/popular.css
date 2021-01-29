@@ -1,0 +1,31 @@
+.container
+{
+    height: 400px;
+}
+
+.container h1
+{
+    margin-bottom: 10px;
+    margin-top: 5px;
+}
+
+.container-not-map
+{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-top: 1px solid black;
+    padding-top: 15px;
+}
+
+.container-map
+{
+    text-align: center;
+    margin-left: 10px;
+}
+
+.container-map img
+{
+    width: 200px;
+}

@@ -1,0 +1,24 @@
+.main
+{
+    width: 100%;
+    height: 70px;
+    position: relative;
+    top: 0;
+    display: flex;
+    justify-content: space-between;
+    background: aquamarine;
+    align-items: center;
+}
+
+.svg-f
+{
+    width: 30%;
+    text-align: center;
+    margin-left: -80px;
+}
+
+.svg-f svg
+{
+    width: 150px;
+}
+
